@@ -1,0 +1,25 @@
+beautifulsoup4==4.12.2  # Up-to-date version
+certifi==2023.6.15      # Up-to-date version
+chardet==4.0.0          # Last stable release, replaced by charset_normalizer in requests
+charset-normalizer==3.3.0  # Replaces chardet in modern requests versions
+colorama==0.4.6         # Up-to-date version
+comtypes==1.1.10        # Up-to-date version
+configparser==5.3.0     # Up-to-date version
+crayons==0.4.0
+future==0.18.3          # Up-to-date version
+idna==3.4               # Up-to-date version
+iso8601==1.1.0          # Up-to-date version
+keyboard==0.13.5
+numpy==1.24.3           # Updated for compatibility with Python 3.12
+pypiwin32==223
+PyQt5==5.15.9           # Up-to-date version
+PyQt5-sip==12.11.1      # Up-to-date version
+pyserial==3.5
+pyttsx3==2.90
+pywin32==305            # Up-to-date version
+PyYAML==6.0             # Up-to-date version
+requests==2.31.0        # Up-to-date version
+selenium==4.18.1
+soupsieve==2.5          # Up-to-date version
+urllib3==2.0.6          # Up-to-date version
+webdriver-manager==3.8.6  # Up-to-date version
